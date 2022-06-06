@@ -4,7 +4,7 @@ andas is a software library written for the Python programming language for data
 
 **simple guide to learn all pandas basics**
 
-This file conatians: 
+This file contains: 
 1. How to read csv file and dive into it with pandas library.
 2. Methods to find out know the data within datset like (head, tail, describe, info, shape).
 3. How to filter data within columns
